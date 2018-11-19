@@ -1,3 +1,3 @@
 # logiqx.github.io
 
-Looking for my [cubing algs](cubing-algs)?
+Looking for the [cubing-algs](cubing-algs) page?
