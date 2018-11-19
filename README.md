@@ -1,2 +1,3 @@
 # logiqx.github.io
-GitHub Pages (User Page)
+
+This project contains the icons and tiles for cubing-docs
