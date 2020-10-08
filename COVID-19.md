@@ -6,7 +6,7 @@ Statistics relating to COVID-19 and the Office for National Statistics (ONS).
 
 ### Statistics
 
-[ons-stats](https://github.com/Logiqx/ons-stats) - A collection of SQL scripts to analyse public data from the Office for National Statistics (ONS).
+#### [ons-stats](https://github.com/Logiqx/ons-stats) - A collection of SQL scripts to analyse public data from the ONS.
 
 The 50- year excess deaths [report](https://logiqx.github.io/ons-stats/) for this project is hosted by GitHub Pages.
 
@@ -14,7 +14,7 @@ The 50- year excess deaths [report](https://logiqx.github.io/ons-stats/) for thi
 
 
 
-[covid-stats](https://github.com/Logiqx/covid-stats) - COVID19  UK Trends and Observations.
+#### [covid-stats](https://github.com/Logiqx/covid-stats) - COVID19  UK Trends and Observations.
 
 The main COVID-19 [report](https://logiqx.github.io/covid-stats/) for this project is hosted by GitHub Pages.
 
