@@ -10,7 +10,7 @@ Slalom results and other statistics for the UK Windsurfing Association (UKWA).
 
 This project has been created as a shared repository for [UKWA](http://ukwindsurfing.com/) slalom results. The folder structure should be self-explanatory as it is simply broken down into years and events.
 
-**HTML**, Creative Commons Attribution Share Alike 4.0 International
+**Sailwave + HTML**, Creative Commons Attribution Share Alike 4.0 International
 
 
 
