@@ -10,6 +10,8 @@ Random technical notes relating to various technologies.
 
 Markdown pages linking to my GitHub projects / repositories.
 
+The simple [website](https://logiqx.github.io/) describing my projects / repositories is hosted by GitHub Pages.
+
 **Markdown**, Creative Commons Attribution Share Alike 4.0 International
 
 
@@ -17,6 +19,8 @@ Markdown pages linking to my GitHub projects / repositories.
 [tech-docs](https://github.com/Logiqx/tech-docs) - Random technology notes
 
 Personal notes relating to a variety of technologies used in recent projects.
+
+The simple [website](https://logiqx.github.io/tech-docs/) containing my technical notes is hosted by GitHub Pages.
 
 **Markdown**, Creative Commons Attribution Share Alike 4.0 International
 

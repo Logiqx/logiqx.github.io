@@ -2,11 +2,15 @@
 
 Custom Docker images that I have created for many of my recent projects.
 
+My Docker repositories + images can be found on Docker Hub under the user [logiqx](https://hub.docker.com/u/logiqx).
+
 
 
 ### AWS
 
 [aws-cli](https://github.com/Logiqx/aws-cli) - AWS Command Line Interface for Docker  Alpine and Debian (slim)
+
+The images can be found on Docker Hub under [loqiqx/aws-cli](https://hub.docker.com/r/logiqx/aws-cli).
 
 **Dockerfile**, GNU General Public License v3.0
 
@@ -15,6 +19,8 @@ Custom Docker images that I have created for many of my recent projects.
 ### MySQL
 
 [mysql-client](https://github.com/Logiqx/mysql-client) - MySQL client for Docker  Alpine + Debian (slim)
+
+The images can be found on Docker Hub under [loqiqx/mysql-client](https://hub.docker.com/r/logiqx/mysql-client).
 
 **Dockerfile**, GNU General Public License v3.0
 
@@ -26,6 +32,8 @@ Custom Docker images that I have created for many of my recent projects.
 
 Official Python image with Beautiful Soup 4 and lxml installed for Alpine Linux + Debian Slim.
 
+The images can be found on Docker Hub under [loqiqx/python-bs4](https://hub.docker.com/r/logiqx/python-bs4).
+
 **Dockerfile**, GNU General Public License v3.0
 
 
@@ -34,6 +42,8 @@ Official Python image with Beautiful Soup 4 and lxml installed for Alpine Linux 
 
 Official Python image with lxml installed for Alpine Linux + Debian Slim.
 
+The images can be found on Docker Hub under [loqiqx/python-lxml](https://hub.docker.com/r/logiqx/python-lxml).
+
 **Dockerfile**, GNU General Public License v3.0
 
 
@@ -41,6 +51,8 @@ Official Python image with lxml installed for Alpine Linux + Debian Slim.
 [python-lev](https://github.com/Logiqx/python-lev) - Official Python image with pythonLevenshtein installed for Alpine Linux + Debian Slim
 
 Official Python image with python-Levenshtein installed for Alpine Linux + Debian Slim.
+
+The images can be found on Docker Hub under [loqiqx/python-lev](https://hub.docker.com/r/logiqx/python-lev).
 
 **Dockerfile**, GNU General Public License v3.0
 

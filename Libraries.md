@@ -8,7 +8,7 @@ Third party libraries that I have used in some of my own projects.
 
 [abbr-touch](https://github.com/Logiqx/abbr-touch) - forked from [Tyriar/abbr-touch](https://github.com/Tyriar/abbr-touch)
 
-Makes <abbr> element title attributes touch accessible.
+Makes \<abbr\> element title attributes touch accessible.
 
 I made some tweaks which were fed back into the main branch.
 
