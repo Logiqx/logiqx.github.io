@@ -1,6 +1,6 @@
 ## Logiqx.com
 
-Everything that I created for [Logiqx.com](http://www.logiqx.com/) and [caesar.logiqx.com](http://caesar.logiqx.com/) from 2000-2010.
+Everything that I created for [logiqx.com](http://www.logiqx.com/) and [caesar.logiqx.com](http://caesar.logiqx.com/) from 2000-2010.
 
 
 
