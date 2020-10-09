@@ -4,7 +4,7 @@ Slalom results and other statistics for the UK Windsurfing Association (UKWA).
 
 
 
-### Slalom Results
+### Results
 
 #### [ukwa-slalom](https://github.com/Logiqx/ukwa-slalom)
 
