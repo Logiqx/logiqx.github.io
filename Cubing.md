@@ -8,11 +8,7 @@ Instructional guides / notes relating to twisty puzzles and the algorithms that 
 
 #### [cubing-algs](https://github.com/Logiqx/cubing-algs)
 
-Bespoke reactive website for my cubing algorithms utilising JSON.
-
-This is by no means a replacement for [AlgDB](http://algdb.net/) but it's probably useful to other cubers due to some of the features that it provides.
-
-This project is a bespoke [website](https://logiqx.github.io/cubing-algs/html/) hosted by GitHub pages. 
+Bespoke reactive [website](https://logiqx.github.io/cubing-algs/html/) for my cubing algorithms utilising JSON, hosted by GitHub pages. 
 
 **HTML + CSS + JavaScript**, GNU General Public License v3.0
 
