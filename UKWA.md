@@ -6,7 +6,7 @@ Slalom results and other statistics for the UK Windsurfing Association (UKWA).
 
 ### Slalom Results
 
-#### [ukwa-slalom](https://github.com/Logiqx/ukwa-slalom) - UKWA Slalom Results
+#### [ukwa-slalom](https://github.com/Logiqx/ukwa-slalom)
 
 This project has been created as a shared repository for [UKWA](http://ukwindsurfing.com/) slalom results. The folder structure should be self-explanatory as it is simply broken down into years and events.
 
@@ -16,7 +16,7 @@ This project has been created as a shared repository for [UKWA](http://ukwindsur
 
 ### Statistics
 
-#### [ukwa-stats](https://github.com/Logiqx/ukwa-stats) - High-level attendance statistics from UKWA web results
+#### [ukwa-stats](https://github.com/Logiqx/ukwa-stats)
 
 Python script to generate attendance statistics for the UKWA in 2018. It processes the National Championship Rankings, Inland Series Rankings and Slalom Rankings.
 
