@@ -1,6 +1,6 @@
-## Emulation - Logiqx + CAESAR
+## Emulation
 
-Everything that I created for Logiqx.com and CAESAR.com from 2000-2010.
+Everything that I created for [Logiqx.com](http://www.logiqx.com/) and [caesar.logiqx.com](http://caesar.logiqx.com/) from 2000-2010.
 
 
 
