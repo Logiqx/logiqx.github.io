@@ -24,7 +24,7 @@ This page summarises my 30+ public repositories on GitHub and provides links to 
 
 ### Emulation
 
-[Logiqx](Logiqx.md) - Everything that I created for Logiqx.com and CAESAR.com from 2000-2010.
+[Logiqx.com](Logiqx.md) - Everything that I created for logiqx.com and caesar.logiqx.com from 2000-2010.
 
 
 
