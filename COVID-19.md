@@ -10,7 +10,7 @@ Statistics relating to COVID-19 and the Office for National Statistics (ONS).
 
 A collection of SQL scripts to analyse public data from the ONS.
 
-The 50- year excess deaths [report](https://logiqx.github.io/ons-stats/) for this project is hosted by GitHub Pages.
+The 50-year excess deaths [report](https://logiqx.github.io/ons-stats/) for this project is hosted by GitHub Pages.
 
 **SQL + Excel + Markdown**, GNU General Public License v3.0
 
