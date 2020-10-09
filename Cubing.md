@@ -44,7 +44,7 @@ This project contains my ideas and notes relating to memory sports and blindfold
 
 This project contains the various cube icons (Favicons and Touch Icons) for my speedcubing website.
 
-It targets the most common operating systems (Android, Apple, Microsoft) and browsers (Chrome, Firefox, IE / Edge, Safari) in addition to many other popular platforms.
+It targets the most common operating systems (Android, Apple, Microsoft) and browsers (Chrome, Firefox, IE / Edge, Safari).
 
 **SVG + PNG + ICO**, Commons Attribution Share Alike 4.0 International
 
