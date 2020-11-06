@@ -6,6 +6,16 @@ Statistics relating to COVID-19 and the Office for National Statistics (ONS).
 
 ### Statistics
 
+#### [flu-stats](https://github.com/Logiqx/flu-stats)
+
+Project to compare COVID-19 and Influenza
+
+The main Excel [spreadsheet](https://logiqx.github.io/flu-stats/data/) for this project is hosted by GitHub.
+
+**Excel + Markdown**, Creative Commons CC0 1.0 Universal.
+
+
+
 #### [covid-stats](https://github.com/Logiqx/covid-stats)
 
 COVID-19 UK Trends and Observations.
