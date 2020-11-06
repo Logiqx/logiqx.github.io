@@ -10,7 +10,7 @@ Statistics relating to COVID-19 and the Office for National Statistics (ONS).
 
 Project to compare COVID-19 and Influenza
 
-The main Excel [spreadsheet](https://logiqx.github.io/flu-stats/data/) for this project is hosted by GitHub.
+The main Excel [spreadsheet](https://github.com/Logiqx/flu-stats/tree/main/data) for this project is hosted by GitHub.
 
 **Excel + Markdown**, Creative Commons CC0 1.0 Universal.
 
