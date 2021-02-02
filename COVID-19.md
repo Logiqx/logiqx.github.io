@@ -10,7 +10,7 @@ Statistics relating to COVID-19 and the Office for National Statistics (ONS).
 
 COVID-19 UK Trends and Observations.
 
-The main COVID-19 [report](https://logiqx.github.io/covid-stats/) and technical [explanation](https://logiqx.github.io/covid-stats/modelling-regional-occurrences/) for this project is hosted by GitHub Pages.
+The main COVID-19 [report](https://logiqx.github.io/covid-stats/) and technical [explanation](https://logiqx.github.io/covid-stats/estimating-regional-occurrences/) for this project is hosted by GitHub Pages.
 
 **Python + Excel + Markdown**, GNU General Public License v3.0
 
