@@ -6,6 +6,18 @@ My Docker repositories + images can be found on Docker Hub under the user [logiq
 
 
 
+### Docker Curator
+
+#### [docker-curator](https://github.com/Logiqx/docker-curator)
+
+A little Python project that I use to check for newer image versions.
+
+Documentation can be found on [GitHub pages](https://logiqx.github.io/docker-curator/).
+
+**Python**, GNU General Public License v3.0
+
+
+
 ### AWS
 
 #### [aws-cli](https://github.com/Logiqx/aws-cli)
